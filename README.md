@@ -9,7 +9,7 @@ https://github.com/Mayuresh1611/Paper-Piano/assets/103099867/c2b0b4f1-3b6b-4eed-
 1. [Setting up project](#setting-up-project)
 2. [How to Use](#how-to-use)
 3. [Training and Adjusting ](#training-and-adjusting)
-4. [Contributing to this project](#contributing-to-project)
+4. [Contributing to this project](#contributing-to-this-project)
    
 ## SETTING UP PROJECT
 Python version 3.11 and above
