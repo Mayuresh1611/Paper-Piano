@@ -5,7 +5,7 @@
 https://github.com/Mayuresh1611/Paper-Piano/assets/103099867/c2b0b4f1-3b6b-4eed-927d-91c5b5c91708
 
 **Currently it only supports maximum 2 fingers** (1 finger of both hands). Support for more fingers and highly susceptible training model is on the way.
-[1. Setting up project](https://github.com/Mayuresh1611/Paper-Piano?tab=readme-ov-file#setting-up-project)
+[1. Setting up project](#setting-up-project)
 ## SETTING UP PROJECT
 Python version 3.11 and above
 1.  Clone the repository ```git clone https://github.com/Mayuresh1611/Paper-Piano.git```
