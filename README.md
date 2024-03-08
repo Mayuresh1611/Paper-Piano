@@ -2,6 +2,8 @@
 
 ### Now we don't need to buy Piano if we want to play music. We can play piano on paper, although it may not give feeling of pressing keys on piano but it gets work done!
 
+https://github.com/Mayuresh1611/Paper-Piano/assets/103099867/c2b0b4f1-3b6b-4eed-927d-91c5b5c91708
+
 **Currently it only supports maximum 2 fingers** (1 finger of both hands). Support for more fingers and highly susceptible training model is on the way.
 
 ## SETTING UP PROJECT
