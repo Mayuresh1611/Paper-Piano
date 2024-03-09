@@ -5,5 +5,4 @@ cv2
 mediapipe
 scipy
 pygame
-threading
 shapely
