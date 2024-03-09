@@ -14,7 +14,7 @@ https://github.com/Mayuresh1611/Paper-Piano/assets/103099867/c2b0b4f1-3b6b-4eed-
 ## SETTING UP PROJECT
 Python version 3.11 and above
 1.  Clone the repository ```git clone https://github.com/Mayuresh1611/Paper-Piano.git```
-2. run command ```pip install requirements.txt``` in the command line.
+2. run command ```pip install -r requirements.txt``` in the command line.
 3. Execute ```run.py``` file
 
 ## HOW TO USE   
