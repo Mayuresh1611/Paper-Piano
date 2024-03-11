@@ -3,7 +3,6 @@ import numpy as np
 import mediapipe as mp 
 import os 
 import shutil 
-from models import model  
 import sys 
 import time
 sys.path.append("src")
@@ -111,6 +110,7 @@ while run:
         
         
     else:
+        from models import model  
         print("-------------*MENU*-------------\n[1] Retrain model\n[2] Start Paper Piano\n[3] Exit")
         check = True
         while check:
