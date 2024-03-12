@@ -7,6 +7,7 @@ import sys
 import time
 sys.path.append("src")
 import fetch_data , train_model, GLOBAL , piano
+from models import model  
  
 FINGER = [GLOBAL.INDEX_FINGER]
 
@@ -107,10 +108,11 @@ while run:
     model_list = os.listdir("models")
     if "touch_detection_model.h5" not in model_list:
         print("We need to train model on your finger's data")
-        
+        fetch_data.clear_training_data()
+        fetch_train_data()
         
     else:
-        from models import model  
+
         print("-------------*MENU*-------------\n[1] Retrain model\n[2] Start Paper Piano\n[3] Exit")
         check = True
         while check:
