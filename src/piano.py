@@ -2,18 +2,15 @@ import cv2
 import mediapipe as mp
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
-from mapping import analyse, draw_over_image
+from src.mapping import analyse, draw_over_image
 import os
-import time
 from shapely.geometry import Point, Polygon
 import threading
 import queue
 import pygame
-import GLOBAL
-import sys
+from src import GLOBAL
 
-sys.path.append('models')
-from model import Predict
+from models.model import Predict
 
 
 cols = 0
