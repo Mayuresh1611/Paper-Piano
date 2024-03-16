@@ -1,12 +1,8 @@
 import cv2 
-import numpy as np 
 import mediapipe as mp 
 import os 
-import shutil 
-import sys 
 import time
-sys.path.append("src")
-import fetch_data , train_model, GLOBAL , piano
+from src import fetch_data , train_model, GLOBAL , piano
 from models import model  
  
 FINGER = [GLOBAL.INDEX_FINGER]
